@@ -1,0 +1,36 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200&display=swap');
+*{font-family: 'DM Sans', sans-serif; }
+
+h1{
+    color: #ffffff;
+}
+body {
+    text-align: center;
+    background: rgb(4,0,255);
+    background: radial-gradient(circle, rgba(4,0,255,1) 0%, rgba(116,9,121,1) 45%, rgba(210,46,227,1) 64%, rgba(0,212,255,1) 100%);
+    background-color: #f8f9fa;
+}
+
+
+.allconteiner{
+    background: rgba(211, 211, 211, 0.137);
+    width:300px ;
+    height: 290px;
+    border: 1cm;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1cm;
+    border-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0);
+    margin: 5px;
+}
+a:hover {
+    background-color: #f0f2f541;
+}
